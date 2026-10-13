@@ -1,19 +1,38 @@
-# Taskpulse
+# TaskPulse – Smart Task and Productivity App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## 📌 Project Overview
 
-## Getting Started
+TaskPulse is a Flutter-based task management and productivity application designed to help users organize daily activities efficiently. It allows users to create tasks, set priorities and deadlines, categorize activities, and track completion progress.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Create and manage daily tasks
+- Set task priorities and categories
+- Select deadlines and estimated durations
+- Track task completion through a dashboard
+- Validate user inputs
+- Interactive UI with animations
+- REST API integration to display sample posts
+- State management using Provider
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
 
-## Getting Started: FlutLab - Flutter Online IDE
+- Flutter
+- Dart
+- Provider
+- HTTP Package
+- JSONPlaceholder REST API
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## 📂 Project Structure
+
+```text
+taskpulse/
+├── lib/
+├── test/
+├── android/
+├── web/
+├── pubspec.yaml
+├── pubspec.lock
+├── analysis_options.yaml
+├── .gitignore
+└── README.md
